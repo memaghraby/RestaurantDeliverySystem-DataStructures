@@ -1,0 +1,68 @@
+
+
+FT	 ID	 AT	 WT	 ST	
+
+4	 11	 3	 1	 0
+4	 9	 3	 1	 0
+4	 7	 2	 1	 1
+4	 1	 1	 1	 2
+5	 3	 1	 2	 2
+6	 13	 4	 1	 1
+6	 2	 1	 1	 4
+7	 10	 3	 1	 3
+7	 5	 2	 1	 4
+7	 6	 2	 1	 4
+8	 20	 6	 1	 1
+8	 17	 5	 1	 2
+8	 8	 3	 2	 3
+9	 4	 1	 3	 5
+10	 15	 5	 2	 3
+10	 14	 5	 1	 4
+11	 25	 8	 1	 2
+11	 19	 6	 1	 4
+12	 31	 10	 1	 1
+12	 26	 8	 2	 2
+12	 24	 8	 1	 3
+13	 35	 12	 1	 0
+13	 21	 7	 1	 5
+14	 36	 12	 1	 1
+14	 29	 9	 2	 3
+14	 30	 9	 1	 4
+15	 32	 11	 1	 3
+15	 28	 9	 1	 5
+16	 38	 14	 1	 1
+17	 39	 15	 1	 1
+17	 23	 8	 2	 7
+18	 41	 16	 1	 1
+18	 37	 13	 1	 4
+20	 40	 15	 1	 4
+21	 45	 18	 1	 2
+22	 51	 20	 1	 1
+23	 48	 19	 2	 2
+24	 46	 18	 2	 4
+25	 42	 16	 1	 8
+26	 50	 19	 1	 6
+................................................
+................................................
+Region A:
+	Orders: 13 [Norm: 2 , Froz: 5, VIP: 6]
+	Motors: 13[Norm: 4 , Froz: 1, VIP: 8]
+	Avg Wait = 1, Avg Serv = 3
+Region B:
+	Orders: 7 [Norm: 2 , Froz: 1, VIP: 4]
+	Motors: 16[Norm: 4 , Froz: 9, VIP: 3]
+	Avg Wait = 1, Avg Serv = 2
+Region C:
+	Orders: 16 [Norm: 1 , Froz: 10, VIP: 5]
+	Motors: 14[Norm: 5 , Froz: 2, VIP: 7]
+	Avg Wait = 1, Avg Serv = 2
+Region D:
+	Orders: 4 [Norm: 1 , Froz: 2, VIP: 1]
+	Motors: 20[Norm: 5 , Froz: 7, VIP: 8]
+	Avg Wait = 1, Avg Serv = 1
+
+
+Total Information for the whole restaurant:
+	Orders: 40
+	Motors: 63
+	Avg Wait = 1 , Avg Serv = 2
